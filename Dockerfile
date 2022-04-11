@@ -1,4 +1,4 @@
-FROM node:17.4-slim
+FROM node:17.8-slim
 
 RUN mkdir /usr/src/goof
 RUN mkdir /tmp/extracted_files
